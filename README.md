@@ -29,6 +29,6 @@ Step 6 :  To delete all entries you can do that also by pressing 4.3
 **********    To play simply run the rockpaperscissors.py file.    *************
 
 
-/-///-//--/-//-/-//-       BEST OF LUCK       /-///-//--/-//-/-//-
+/-///-//--/-//-/-//-       BEST OF LUCK       /-///-//--/-//-/-//-/
 
 
