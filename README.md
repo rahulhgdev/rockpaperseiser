@@ -3,9 +3,7 @@
 
 A simple rock-paper-scissors game made with python (Text-based) Made for windows. 
 
-
 The user input must be '1 for rock' '2 for paper' or '3 for scissors' otherwise the game won't work.
-
 
 Step 1 :  Start the game by pressing 1.
 
